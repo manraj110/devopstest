@@ -1,0 +1,8 @@
+# Testing Framework
+pytest
+
+# Add your other project-specific dependencies below
+# For example:
+# requests
+# pandas
+# numpy
