@@ -1,5 +1,5 @@
-def fun(a,b):
+def test_addition(a,b):
     print(a+b)
 
 
-fun(5,2)
+test_addition(5,2)
